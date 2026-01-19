@@ -1,4 +1,6 @@
-El archivo consta de 3 secciones:
+El objetivo de este proyecto fue utilizar el dataset de fashionMIST para construir dos clasificadores de imagenes: uno binario y otro multiclase. El analisis y el informe se centran en el desarrollo de los mismos, como se consiguieron los atributos optimos, como se seleccionaron los pixeles que se usaron para cada modelo y demas.
+
+El programa consta de 3 secciones:
     - el analisis exploratorio
     - la clasificacion binaria usando knn
     - la clasificacion multiclase usando arboles de decision
